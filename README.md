@@ -3,9 +3,7 @@
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg?color=00ADB5&style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/dev-aniketj/Weather-App?color=00ADB5&style=for-the-badge)
 
-## Preview
 
-<img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/gif1.gif" width="200"/>
 
 ## Screenshots
 
@@ -48,13 +46,4 @@ public final static String API_KEY = "81a26c8f0de407b94623e9f43e825679";
 
 > Single API key on have
 
-## Contributing
-
-Please fork this repository and contribute back. Any contributions, large or small, major or minor features, bug fixes, are welcomed and appreciated but will be thoroughly reviewed.
-
-## Support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/aniketjain)
-# WeatherApp-FINAL
-# WeatherApp-FINAL
 # WeatherApp-FINAL
